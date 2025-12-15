@@ -1,3 +1,6 @@
+# Learntra – e-Learning Platform
+  - Built a full-stack online learning platform with user authentication, course listing, video lectures, and secure Razorpay payments. Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MySQL, JWT.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
